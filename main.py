@@ -46,8 +46,8 @@ bot = Client(
 )
 
 # Environment variables for API credentials
-API_ID = os.environ.get("API_ID", "21705536")
-API_HASH = os.environ.get("API_HASH", "c5bb241f6e3ecf33fe68a444e288de2d")
+API_ID = os.environ.get("API_ID", "28088290")
+API_HASH = os.environ.get("API_HASH", "6998f2c585fdce65ac72dfa23d02b6ec")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 
