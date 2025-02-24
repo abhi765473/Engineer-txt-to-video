@@ -1,6 +1,6 @@
 # Don't Remove Credit Telegram - @Engineers_Babu
 from os import environ
 
-API_ID = int(environ.get("API_ID", "21705536"))
-API_HASH = environ.get("API_HASH", "c5bb241f6e3ecf33fe68a444e288de2d")
+API_ID = int(environ.get("API_ID", "28088290"))
+API_HASH = environ.get("API_HASH", "6998f2c585fdce65ac72dfa23d02b6ec")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
